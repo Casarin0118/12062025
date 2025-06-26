@@ -1,0 +1,26 @@
+{
+  "name": "Dia dos Namorados 2025",
+  "short_name": "Meu Amor",
+  "description": "Um aplicativo especial com nossa história e fotos para o Dia dos Namorados.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffd6e7",
+  "theme_color": "#e84393",
+  "icons": [
+    {
+      "src": "/heart.ico",
+      "sizes": "64x64",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
